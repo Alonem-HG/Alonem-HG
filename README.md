@@ -5,8 +5,9 @@ Currently, I am improving my skills in data analysis with Python and machine lea
 
 You can take a look at my project.
 
-- [Human Resource Data Analysis with python and ML](https://github.com/Alonem-HG/hr-analytics-employee-attrition)
+- [Human Resource - Data Analysis with python and ML](https://github.com/Alonem-HG/hr-analytics-employee-attrition)
 
+- [Power BI - Proyectos ](https://github.com/Alonem-HG/PowerBI_proyectos)
 
 ### Also can you find me in Linkedin.
 [Linkedin](https://www.linkedin.com/in/alonsoemmanuelhg/) 💼
