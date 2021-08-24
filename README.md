@@ -2,6 +2,7 @@
 
 I'm interested in Data Analysis. 
 Currently, I am improving my skills in data analysis with Python and machine learning.
+Also I'm learning about PowerBI.
 
 You can take a look at my project.
 
