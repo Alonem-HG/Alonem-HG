@@ -2,13 +2,11 @@
 
 I'm interested in Data Analysis. 
 Currently, I am improving my skills in data analysis with Python and machine learning.
-Also I'm learning about PowerBI.
+Improving my skills in data analysis.
 
 You can take a look at my project.
 
 - [Human Resource - Data Analysis with python and ML](https://github.com/Alonem-HG/hr-analytics-employee-attrition)
-
-- [Power BI - Proyectos ](https://github.com/Alonem-HG/PowerBI_proyectos)
 
 ### Also can you find me in Linkedin.
 [Linkedin](https://www.linkedin.com/in/alonsoemmanuelhg/) 💼
