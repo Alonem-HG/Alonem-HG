@@ -1,8 +1,8 @@
-# Hi!, my name is Alonso Emmanuel. 
+# Hi!, my name is Alonso Emmanuel.   
 
-I'm interested in Data Analysis. 
-Currently, I am improving my skills in data analysis with Python and machine learning.
-Improving my skills in data analysis.
+I'm interested in Data Analysis.   
+Currently, I am improving my skills in data analysis with Python and machine learning.  
+
 
 You can take a look at my project.
 
@@ -10,7 +10,6 @@ You can take a look at my project.
 
 ### Also can you find me in Linkedin.
 [Linkedin](https://www.linkedin.com/in/alonsoemmanuelhg/) 💼
-
 
 <!---
 Alonem-HG/Alonem-HG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
