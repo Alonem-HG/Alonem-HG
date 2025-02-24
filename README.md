@@ -1,11 +1,11 @@
-# Hi!, my name is Alonso Emmanuel.   
+# Hi!, My name is Alonso Emmanuel I'm from Mexico.   
 
-I'm interested in Data Analysis.   
-Currently, I am improving my skills in data analysis with Python and machine learning.  
+I'm interested in QA tester,
+Currently, I am improving my skills in Selenium with Python.
 
+You can take a look at some of my project.
 
-You can take a look at my project.
-
+For Data Analysis
 - [Human Resource - Data Analysis with python and ML](https://github.com/Alonem-HG/hr-analytics-employee-attrition)
 
 ### Also can you find me in Linkedin.
