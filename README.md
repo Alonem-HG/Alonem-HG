@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alonso Hg
+# 👋 Hola!, I'm Alonso Hg
 
 💡 **Curious | Self-Taught | Always Learning**
 
